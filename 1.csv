@@ -1,0 +1,7 @@
+jobtype,max(maxsalary),min(minsalary),avg(avgsalary)
+Data Engineer,320000,53000,113023.4716
+Data Scientist,306000,37000,116316.6589
+AI/ML,190000,37000,118538.4615
+Data Analyst,173200,27000,91428.28947
+Big Data Engineer,150000,82000,112000
+,70000,70000,70000

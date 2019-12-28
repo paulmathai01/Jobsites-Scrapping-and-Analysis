@@ -1,0 +1,986 @@
+,[job_title],[location],[company],[mid_level]
+1,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+2,Data Scientist,DTE Energy,"Detroit, MI",yes
+3,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+4,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+5,Data Scientist,Social Science Research Solutions (SSRS),"Glen Mills, PA",yes
+6,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+7,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+8,"Applied Data Scientist- Arlington, VA",Nestle USA,"Arlington, VA 22201",yes
+9,Data Scientist III,LexisNexis SA,"Raleigh, NC",yes
+10,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+11,"Data Scientist, Amazon Devices","Amazon.com Services, Inc.","Seattle, WA",yes
+12,Data Engineer,meQuilibrium,"Boston, MA 02298",yes
+13,"Associate Scientist, Machine Learning, Data Sciences",bluebird bio,"Cambridge, MA",yes
+14,Data Engineer-Big Data,Cygnet Infotech Pvt. Ltd,"Chevy Chase, MD",yes
+15,Machine Learning Research Scientist,Etegent,"Beavercreek, OH 45431",yes
+16,Data Engineer,Koddi,"Ann Arbor, MI",yes
+17,"Federal - Data Scientist- Augusta, GA",Accenture,"Atlanta, GA 30303 (Five Points area)",yes
+18,Data Scientist,Klaviyo,"Boston, MA",yes
+19,Bioinformatics Data Engineer,Delfi Diagnostics,"Baltimore, MD 21205 (Orangeville area)",yes
+20,Data Science Architect - Data Manufacturing,Bloomberg,"New York, NY",yes
+21,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+22,"Analyst I/II, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+23,Data Scientist,DTE Energy,"Detroit, MI",yes
+24,Data Scientist - Data Analytics,FCA,"Auburn Hills, MI 48326",yes
+25,"Assistant Director/Director I, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+26,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+27,Data Science Consultant - Supply Chain,Accenture,"Detroit, MI",yes
+28,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+29,Junior Data Scientist,DataSprouts,"Bloomington, IN",yes
+30,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+31,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+32,Data Scientist,DTE Energy,"Detroit, MI",yes
+33,Data Science Consultant - Supply Chain,Accenture,"Detroit, MI",yes
+34,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+35,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+36,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+37,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+38,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+39,"Analyst I/II, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+40,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+41,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+42,Data Scientist,DTE Energy,"Detroit, MI",yes
+43,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+44,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+45,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+46,Data Scientist and Visualization Specialist,Apple,"Santa Clara Valley, CA 95014",yes
+47,"Associate, Data Science",JP Morgan Chase,"Lewisville, TX 75067",yes
+48,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+49,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+50,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+51,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+52,Data Scientist,DTE Energy,"Detroit, MI",yes
+53,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+54,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+55,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+56,"Product Analyst, Data Science",Google,"New York, NY 10011 (Chelsea area)",yes
+57,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+58,"Data Scientist, Analytics",Facebook,"New York, NY 10017 (Midtown area)",yes
+59,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+60,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+61,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+62,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+63,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+64,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+65,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+66,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+67,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+68,Data Scientist-Pricing,Best Buy,"Richfield, MN 55423",yes
+69,Data Scientist III,LexisNexis SA,"Raleigh, NC",yes
+70,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+71,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+72,Data Scientist,DTE Energy,"Detroit, MI",yes
+73,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+74,Data Scientist,Social Science Research Solutions (SSRS),"Glen Mills, PA",yes
+75,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+76,Data Science Manager,Domino's,"Ann Arbor, MI 48106",yes
+77,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+78,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+79,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+80,"Applied Data Scientist- Arlington, VA",Nestle USA,"Arlington, VA 22201",yes
+81,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+82,"Analyst I/II, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+83,Data Scientist,DTE Energy,"Detroit, MI",yes
+84,Data Scientist - Data Analytics,FCA,"Auburn Hills, MI 48326",yes
+85,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+86,Data Science Consultant - Supply Chain,Accenture,"Detroit, MI",yes
+87,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+88,Junior Data Scientist,DataSprouts,"Bloomington, IN",yes
+89,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+90,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+91,Data Scientist,DTE Energy,"Detroit, MI",yes
+92,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+93,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+94,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+95,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+96,Data Scientist - Data Analytics,FCA,"Auburn Hills, MI 48326",yes
+97,Data Science and Analytics Specialist,"Chesterfield County, VA","Chesterfield, VA",yes
+98,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+99,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+100,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+101,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+102,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+103,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+104,Data Scientist,DTE Energy,"Detroit, MI",yes
+105,Data Science- Support Engineer,Ericsson,"Plano, TX",yes
+106,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+107,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+108,"Associate Director, Commercial Data Science",Barrington James,"Boston, MA",yes
+109,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+110,Data Scientist,DTE Energy,"Detroit, MI",yes
+111,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+112,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+113,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+114,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+115,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+116,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+117,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+118,"Data Scientist, Analytics",Facebook,"New York, NY 10017 (Midtown area)",yes
+119,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+120,Data Scientist,DTE Energy,"Detroit, MI",yes
+121,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+122,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+123,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+124,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+125,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+126,Intermediate Data Science Analyst,Gateway,"Indianapolis, IN 46204",yes
+127,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+128,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+129,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+130,Data Scientist,DTE Energy,"Detroit, MI",yes
+131,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+132,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+133,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+134,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+135,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+136,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+137,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+138,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+139,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+140,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+141,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+142,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+143,"Associate Director, Commercial Data Science",Barrington James,"Boston, MA",yes
+144,Data Scientist,Bainom Inc.,"San Francisco, CA",yes
+145,Data Science- Support Engineer,Ericsson,"Plano, TX",yes
+146,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+147,Data Engineer,Waterstone Mortgage,"Pewaukee, WI",yes
+148,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+149,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+150,Data Scientist,DTE Energy,"Detroit, MI",yes
+151,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+152,Data Scientist and Visualization Specialist,Apple,"Santa Clara Valley, CA 95014",yes
+153,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+154,"Associate, Data Science",JP Morgan Chase,"Lewisville, TX 75067",yes
+155,"Data Scientist, Analytics",Facebook,"New York, NY 10017 (Midtown area)",yes
+156,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+157,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+158,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+159,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+160,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+161,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+162,Data Scientist,DTE Energy,"Detroit, MI",yes
+163,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+164,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+165,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+166,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+167,Data Scientist,Dun & Bradstreet,"Center Valley, PA 18034",yes
+168,Data Scientist,OneMagnify,"Dearborn, MI",yes
+169,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+170,Data Scientist,DTE Energy,"Detroit, MI",yes
+171,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+172,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+173,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+174,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+175,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+176,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+177,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+178,Data Scientist,Dun & Bradstreet,"Center Valley, PA 18034",yes
+179,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+180,"Analyst I/II, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+181,"Assistant Director/Director I, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+182,Data Scientist,Imprimis Group,"Dallas, TX 75202 (City Center District area)",yes
+183,"Associate, Data Science",JP Morgan Chase,"Lewisville, TX 75067",yes
+184,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+185,Data Scientist,DTE Energy,"Detroit, MI",yes
+186,Data Science Intern,"Bertelsmann, Inc.","New York, NY 10019 (Midtown area)",yes
+187,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+188,CDC Influenza Data Science Fellowship,Oak Ridge Associated Universities,"Atlanta, GA",yes
+189,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+190,Data Scientist,DTE Energy,"Detroit, MI",yes
+191,"Associate, Data Science",JP Morgan Chase,"Lewisville, TX 75067",yes
+192,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+193,Data Scientist (Machine Learning),Apple,"Santa Clara Valley, CA 95014",yes
+194,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+195,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+196,Data Scientist/Visualization Master,Intermedia Advertising,"Los Angeles, CA 90067",yes
+197,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+198,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+199,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+200,Data Scientist,DTE Energy,"Detroit, MI",yes
+201,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+202,Data Scientist,Social Science Research Solutions (SSRS),"Glen Mills, PA",yes
+203,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+204,Data Science Manager,Domino's,"Ann Arbor, MI 48106",yes
+205,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+206,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+207,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+208,"Applied Data Scientist- Arlington, VA",Nestle USA,"Arlington, VA 22201",yes
+209,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+210,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+211,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+212,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+213,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+214,Data Scientist,DTE Energy,"Detroit, MI",yes
+215,Data Science- Support Engineer,Ericsson,"Plano, TX",yes
+216,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+217,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+218,"Associate Director, Commercial Data Science",Barrington James,"Boston, MA",yes
+219,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+220,Data Scientist,DTE Energy,"Detroit, MI",yes
+221,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+222,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+223,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+224,"Data Scientist, Analytics",Facebook,"New York, NY 10017 (Midtown area)",yes
+225,Data Scientist and Visualization Specialist,Apple,"Santa Clara Valley, CA 95014",yes
+226,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+227,Data Scientist (Machine Learning),Apple,"Santa Clara Valley, CA 95014",yes
+228,"Product Analyst, Data Science",Google,"New York, NY 10011 (Chelsea area)",yes
+229,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+230,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+231,Data Scientist,DTE Energy,"Detroit, MI",yes
+232,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+233,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+234,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+235,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+236,Data Scientist,OneMagnify,"Dearborn, MI",yes
+237,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+238,Data Scientist,Dun & Bradstreet,"Center Valley, PA 18034",yes
+239,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+240,Data Scientist,DTE Energy,"Detroit, MI",yes
+241,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+242,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+243,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+244,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+245,"Assistant Director/Director I, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+246,Data Scientist,Imprimis Group,"Dallas, TX 75202 (City Center District area)",yes
+247,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+248,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+249,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+250,Data Scientist,DTE Energy,"Detroit, MI",yes
+251,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+252,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+253,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+254,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+255,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+256,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+257,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+258,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+259,Data Scientist,DTE Energy,"Detroit, MI",yes
+260,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+261,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+262,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+263,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+264,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+265,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+266,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+267,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+268,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+269,Data Scientist,DTE Energy,"Detroit, MI",yes
+270,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+271,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+272,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+273,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+274,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+275,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+276,Data Science and Analytics Specialist,"Chesterfield County, VA","Chesterfield, VA",yes
+277,Data Scientist,Booz Allen Hamilton,"Fayetteville, NC 28303",yes
+278,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+279,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+280,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+281,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+282,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+283,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+284,Data Science- Support Engineer,Ericsson,"Plano, TX",yes
+285,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+286,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+287,"Associate Director, Commercial Data Science",Barrington James,"Boston, MA",yes
+288,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+289,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+290,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+291,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+292,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+293,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+294,Data Scientist,DTE Energy,"Detroit, MI",yes
+295,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+296,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+297,Data Scientist III,LexisNexis SA,"Raleigh, NC",yes
+298,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+299,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+300,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+301,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+302,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+303,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+304,Data Scientist,DTE Energy,"Detroit, MI",yes
+305,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+306,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+307,Data Scientist III,LexisNexis SA,"Raleigh, NC",yes
+308,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+309,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+310,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+311,Data Scientist,DTE Energy,"Detroit, MI",yes
+312,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+313,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+314,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+315,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+316,Data Scientist,Dun & Bradstreet,"Center Valley, PA 18034",yes
+317,Data Scientist,OneMagnify,"Dearborn, MI",yes
+318,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+319,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+320,Data Scientist,DTE Energy,"Detroit, MI",yes
+321,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+322,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+323,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+324,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+325,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+326,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+327,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+328,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+329,Data Scientist,DTE Energy,"Detroit, MI",yes
+330,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+331,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+332,Data Scientist,Social Science Research Solutions (SSRS),"Glen Mills, PA",yes
+333,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+334,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+335,Data Science Manager,Domino's,"Ann Arbor, MI 48106",yes
+336,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+337,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+338,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+339,Data Scientist,DTE Energy,"Detroit, MI",yes
+340,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+341,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+342,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+343,"Data Scientist, Analytics",Facebook,"New York, NY 10017 (Midtown area)",yes
+344,Data Scientist and Visualization Specialist,Apple,"Santa Clara Valley, CA 95014",yes
+345,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+346,Data Scientist (Machine Learning),Apple,"Santa Clara Valley, CA 95014",yes
+347,"Product Analyst, Data Science",Google,"New York, NY 10011 (Chelsea area)",yes
+348,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+349,Data Scientist,DTE Energy,"Detroit, MI",yes
+350,"Associate, Data Science",JP Morgan Chase,"Lewisville, TX 75067",yes
+351,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+352,Data Scientist (Machine Learning),Apple,"Santa Clara Valley, CA 95014",yes
+353,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+354,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+355,Data Scientist/Visualization Master,Intermedia Advertising,"Los Angeles, CA 90067",yes
+356,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+357,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+358,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+359,"Analyst I/II, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+360,"Assistant Director/Director I, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+361,Data Scientist,Imprimis Group,"Dallas, TX 75202 (City Center District area)",yes
+362,"Associate, Data Science",JP Morgan Chase,"Lewisville, TX 75067",yes
+363,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+364,Data Scientist,DTE Energy,"Detroit, MI",yes
+365,Data Science Intern,"Bertelsmann, Inc.","New York, NY 10019 (Midtown area)",yes
+366,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+367,CDC Influenza Data Science Fellowship,Oak Ridge Associated Universities,"Atlanta, GA",yes
+368,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+369,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+370,Artificial Intelligence / Deep Learning /ML – Machine Learning Consultant,TISSA Software,"McLean, VA",yes
+371,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+372,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+373,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+374,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+375,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+376,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+377,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+378,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+379,Data Scientist,DTE Energy,"Detroit, MI",yes
+380,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+381,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+382,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+383,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+384,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+385,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+386,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+387,"Data Scientist, Analytics",Facebook,"New York, NY 10017 (Midtown area)",yes
+388,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+389,Data Scientist,DTE Energy,"Detroit, MI",yes
+390,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+391,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+392,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+393,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+394,Data Scientist - Data Analytics,FCA,"Auburn Hills, MI 48326",yes
+395,Data Science and Analytics Specialist,"Chesterfield County, VA","Chesterfield, VA",yes
+396,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+397,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+398,Data Scientist,DTE Energy,"Detroit, MI",yes
+399,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+400,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+401,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+402,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+403,Data Science Manager,Domino's,"Ann Arbor, MI 48106",yes
+404,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+405,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+406,Data Scientist,Social Science Research Solutions (SSRS),"Glen Mills, PA",yes
+407,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+408,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+409,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+410,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+411,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+412,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+413,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+414,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+415,Data Science- Support Engineer,Ericsson,"Plano, TX",yes
+416,"Analyst I/II, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+417,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+418,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+419,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+420,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+421,Data Scientist,Imprimis Group,"Dallas, TX 75202 (City Center District area)",yes
+422,"Assistant Director/Director I, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+423,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+424,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+425,"Associate, Data Science",JP Morgan Chase,"Lewisville, TX 75067",yes
+426,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+427,Data Scientist,DTE Energy,"Detroit, MI",yes
+428,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+429,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+430,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+431,"Product Analyst, Data Science",Google,"New York, NY 10011 (Chelsea area)",yes
+432,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+433,"Data Scientist, Analytics",Facebook,"New York, NY 10017 (Midtown area)",yes
+434,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+435,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+436,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+437,Data Scientist,DTE Energy,"Detroit, MI",yes
+438,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+439,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+440,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+441,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+442,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+443,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+444,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+445,"Product Analyst, Data Science",Google,"New York, NY 10011 (Chelsea area)",yes
+446,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+447,Data Scientist,DTE Energy,"Detroit, MI",yes
+448,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+449,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+450,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+451,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+452,"Assistant Director/Director I, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+453,Data Scientist,Imprimis Group,"Dallas, TX 75202 (City Center District area)",yes
+454,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+455,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+456,Data Scientist,DTE Energy,"Detroit, MI",yes
+457,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+458,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+459,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+460,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+461,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+462,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+463,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+464,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+465,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+466,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+467,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+468,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+469,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+470,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+471,Data Science- Support Engineer,Ericsson,"Plano, TX",yes
+472,"Associate Director, Commercial Data Science",Barrington James,"Boston, MA",yes
+473,Data Engineer,Waterstone Mortgage,"Pewaukee, WI",yes
+474,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+475,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+476,Data Scientist,DTE Energy,"Detroit, MI",yes
+477,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+478,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+479,Data Science Manager,Domino's,"Ann Arbor, MI 48106",yes
+480,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+481,"Applied Data Scientist- Arlington, VA",Nestle USA,"Arlington, VA 22201",yes
+482,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+483,Data Scientist,Social Science Research Solutions (SSRS),"Glen Mills, PA",yes
+484,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+485,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+486,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+487,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+488,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+489,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+490,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+491,"Analyst I/II, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+492,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+493,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+494,Data Scientist,Imprimis Group,"Dallas, TX 75202 (City Center District area)",yes
+495,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+496,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+497,Data Scientist,DTE Energy,"Detroit, MI",yes
+498,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+499,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+500,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+501,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+502,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+503,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+504,Intermediate Data Science Analyst,Gateway,"Indianapolis, IN 46204",yes
+505,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+506,Data Scientist,DTE Energy,"Detroit, MI",yes
+507,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+508,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+509,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+510,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+511,Data Science Manager,Domino's,"Ann Arbor, MI 48106",yes
+512,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+513,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+514,Data Scientist,Social Science Research Solutions (SSRS),"Glen Mills, PA",yes
+515,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+516,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+517,Data Scientist,DTE Energy,"Detroit, MI",yes
+518,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+519,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+520,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+521,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+522,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+523,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+524,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+525,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+526,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+527,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+528,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+529,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+530,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+531,"Analyst I/II, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+532,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+533,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+534,Data Scientist,Imprimis Group,"Dallas, TX 75202 (City Center District area)",yes
+535,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+536,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+537,"Analyst I/II, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+538,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+539,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+540,Data Scientist,Imprimis Group,"Dallas, TX 75202 (City Center District area)",yes
+541,"Assistant Director/Director I, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+542,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+543,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+544,"Associate, Data Science",JP Morgan Chase,"Lewisville, TX 75067",yes
+545,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+546,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+547,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+548,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+549,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+550,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+551,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+552,Data Science- Support Engineer,Ericsson,"Plano, TX",yes
+553,Intermediate Data Science Analyst,Gateway,"Indianapolis, IN 46204",yes
+554,Data Scientist,Bainom Inc.,"San Francisco, CA",yes
+555,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+556,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+557,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+558,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+559,"Analyst I/II, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+560,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+561,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+562,Data Scientist,DTE Energy,"Detroit, MI",yes
+563,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+564,Data Scientist - Data Analytics,FCA,"Auburn Hills, MI 48326",yes
+565,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+566,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+567,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+568,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+569,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+570,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+571,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+572,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+573,Data Scientist,"Amazon Web Services, Inc.","Herndon, VA",yes
+574,Data Scientist III,LexisNexis SA,"Raleigh, NC",yes
+575,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+576,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+577,Data Scientist,DTE Energy,"Detroit, MI",yes
+578,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+579,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+580,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+581,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+582,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+583,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+584,Intermediate Data Science Analyst,Gateway,"Indianapolis, IN 46204",yes
+585,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+586,Data Scientist,DTE Energy,"Detroit, MI",yes
+587,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+588,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+589,Data Scientist,Social Science Research Solutions (SSRS),"Glen Mills, PA",yes
+590,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+591,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+592,"Applied Data Scientist- Arlington, VA",Nestle USA,"Arlington, VA 22201",yes
+593,Data Scientist III,LexisNexis SA,"Raleigh, NC",yes
+594,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+595,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+596,Data Scientist,DTE Energy,"Detroit, MI",yes
+597,"Analyst I/II, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+598,Data Scientist - Data Analytics,FCA,"Auburn Hills, MI 48326",yes
+599,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+600,Data Science Intern,"Bertelsmann, Inc.","New York, NY 10019 (Midtown area)",yes
+601,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+602,"Associate, Data Science",JP Morgan Chase,"Lewisville, TX 75067",yes
+603,"Data Scientist, Analytics",Facebook,"New York, NY 10017 (Midtown area)",yes
+604,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+605,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+606,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+607,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+608,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+609,Data Scientist,DTE Energy,"Detroit, MI",yes
+610,Data Science- Support Engineer,Ericsson,"Plano, TX",yes
+611,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+612,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+613,"Associate Director, Commercial Data Science",Barrington James,"Boston, MA",yes
+614,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+615,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+616,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+617,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+618,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+619,"Associate Director, Commercial Data Science",Barrington James,"Boston, MA",yes
+620,Data Engineer,Lutient,"Nashville, TN",yes
+621,Data Science- Support Engineer,Ericsson,"Plano, TX",yes
+622,Data Engineer,Waterstone Mortgage Corporation,"Pewaukee, WI",yes
+623,Data Scientist,Bainom Inc.,"San Francisco, CA",yes
+624,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+625,Data Scientist,DTE Energy,"Detroit, MI",yes
+626,Data Scientist - Data Analytics,FCA,"Auburn Hills, MI 48326",yes
+627,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+628,Data Science Intern,"Bertelsmann, Inc.","New York, NY 10019 (Midtown area)",yes
+629,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+630,"Associate, Data Science",JP Morgan Chase,"Lewisville, TX 75067",yes
+631,"Data Scientist, Analytics",Facebook,"New York, NY 10017 (Midtown area)",yes
+632,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+633,Data Scientist,DTE Energy,"Detroit, MI",yes
+634,"Analyst I/II, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+635,Data Scientist - Data Analytics,FCA,"Auburn Hills, MI 48326",yes
+636,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+637,Data Science Intern,"Bertelsmann, Inc.","New York, NY 10019 (Midtown area)",yes
+638,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+639,"Associate, Data Science",JP Morgan Chase,"Lewisville, TX 75067",yes
+640,"Data Scientist, Analytics",Facebook,"New York, NY 10017 (Midtown area)",yes
+641,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+642,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+643,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+644,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+645,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+646,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+647,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+648,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+649,Data Scientist III,LexisNexis SA,"Raleigh, NC",yes
+650,Lead Data Scientist,Blue Orange Digital,"Alexandria, VA 22314 (Southwest Quadrant area)",yes
+651,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+652,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+653,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+654,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+655,Data Scientist,DTE Energy,"Detroit, MI",yes
+656,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+657,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+658,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+659,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+660,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+661,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+662,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+663,Data Scientist,DTE Energy,"Detroit, MI",yes
+664,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+665,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+666,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+667,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+668,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+669,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+670,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+671,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+672,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+673,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+674,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+675,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+676,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+677,Data Engineer,Lutient,"Nashville, TN",yes
+678,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+679,Data Engineer,Waterstone Mortgage Corporation,"Pewaukee, WI",yes
+680,Data Science Analyst,SparkCognition,"Austin, TX 78759 (Arboretum area)",yes
+681,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+682,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+683,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+684,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+685,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+686,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+687,Data Science- Support Engineer,Ericsson,"Plano, TX",yes
+688,"Associate Director, Commercial Data Science",Barrington James,"Boston, MA",yes
+689,Data Engineer,Waterstone Mortgage,"Pewaukee, WI",yes
+690,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+691,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+692,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+693,Data Scientist,DTE Energy,"Detroit, MI",yes
+694,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+695,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+696,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+697,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+698,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+699,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+700,Intermediate Data Science Analyst,Gateway,"Indianapolis, IN 46204",yes
+701,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+702,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+703,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+704,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+705,Data Scientist,Imprimis Group,"Dallas, TX 75202 (City Center District area)",yes
+706,"Assistant Director/Director I, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+707,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+708,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+709,"Associate, Data Science",JP Morgan Chase,"Lewisville, TX 75067",yes
+710,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+711,Data Scientist,DTE Energy,"Detroit, MI",yes
+712,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+713,Data Science Manager,Domino's,"Ann Arbor, MI 48106",yes
+714,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+715,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+716,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+717,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+718,"Applied Data Scientist- Arlington, VA",Nestle USA,"Arlington, VA 22201",yes
+719,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+720,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+721,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+722,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+723,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+724,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+725,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+726,Data Engineer,Lutient,"Nashville, TN",yes
+727,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+728,Data Engineer,Waterstone Mortgage Corporation,"Pewaukee, WI",yes
+729,Data Science Analyst,SparkCognition,"Austin, TX 78759 (Arboretum area)",yes
+730,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+731,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+732,Data Scientist,DTE Energy,"Detroit, MI",yes
+733,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+734,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+735,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+736,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+737,Data Scientist,OneMagnify,"Dearborn, MI",yes
+738,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+739,Data Scientist,Dun & Bradstreet,"Center Valley, PA 18034",yes
+740,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+741,Data Scientist,DTE Energy,"Detroit, MI",yes
+742,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+743,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+744,Data Scientist,Social Science Research Solutions (SSRS),"Glen Mills, PA",yes
+745,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+746,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+747,Data Science Manager,Domino's,"Ann Arbor, MI 48106",yes
+748,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+749,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+750,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+751,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+752,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+753,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+754,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+755,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+756,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+757,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+758,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+759,Data Scientist III,LexisNexis SA,"Raleigh, NC",yes
+760,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+761,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+762,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+763,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+764,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+765,Data Scientist,DTE Energy,"Detroit, MI",yes
+766,Data Science- Support Engineer,Ericsson,"Plano, TX",yes
+767,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+768,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+769,"Associate Director, Commercial Data Science",Barrington James,"Boston, MA",yes
+770,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+771,Data Scientist,DTE Energy,"Detroit, MI",yes
+772,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+773,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+774,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+775,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+776,Data Science Manager,Domino's,"Ann Arbor, MI 48106",yes
+777,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+778,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+779,Data Scientist,Social Science Research Solutions (SSRS),"Glen Mills, PA",yes
+780,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+781,Data Scientist,DTE Energy,"Detroit, MI",yes
+782,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+783,Data Science Manager,Domino's,"Ann Arbor, MI 48106",yes
+784,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+785,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+786,"Applied Data Scientist- Arlington, VA",Nestle USA,"Arlington, VA 22201",yes
+787,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+788,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+789,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+790,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+791,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+792,Artificial Intelligence / Deep Learning /ML – Machine Learning Consultant,TISSA Software,"McLean, VA",yes
+793,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+794,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+795,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+796,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+797,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+798,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+799,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+800,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+801,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+802,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+803,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+804,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+805,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+806,Data Scientist,DTE Energy,"Detroit, MI",yes
+807,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+808,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+809,Data Scientist III,LexisNexis SA,"Raleigh, NC",yes
+810,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+811,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+812,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+813,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+814,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+815,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+816,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+817,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+818,Data Scientist,"Amazon Web Services, Inc.","Herndon, VA",yes
+819,Data Scientist III,LexisNexis SA,"Raleigh, NC",yes
+820,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+821,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+822,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+823,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+824,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+825,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+826,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+827,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+828,Data Scientist,"Amazon Web Services, Inc.","Herndon, VA",yes
+829,Data Scientist III,LexisNexis SA,"Raleigh, NC",yes
+830,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+831,Data Scientist,DTE Energy,"Detroit, MI",yes
+832,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+833,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+834,Data Scientist,Social Science Research Solutions (SSRS),"Glen Mills, PA",yes
+835,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+836,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+837,Data Science Manager,Domino's,"Ann Arbor, MI 48106",yes
+838,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+839,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+840,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+841,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+842,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+843,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+844,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+845,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+846,Data Scientist,DTE Energy,"Detroit, MI",yes
+847,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+848,Data Scientist - Data Analytics,FCA,"Auburn Hills, MI 48326",yes
+849,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+850,Data Scientist,DTE Energy,"Detroit, MI",yes
+851,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+852,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+853,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+854,"Analyst I/II, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+855,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+856,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+857,Data Scientist - Data Analytics,FCA,"Auburn Hills, MI 48326",yes
+858,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+859,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+860,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+861,Data Scientist,DTE Energy,"Detroit, MI",yes
+862,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+863,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+864,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+865,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+866,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+867,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+868,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+869,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+870,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+871,Data Scientist,DTE Energy,"Detroit, MI",yes
+872,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+873,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+874,Data Science Consultant - Supply Chain,Accenture,"Detroit, MI",yes
+875,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+876,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+877,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+878,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+879,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+880,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+881,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+882,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+883,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+884,"Analyst I/II, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+885,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+886,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+887,Data Scientist,Imprimis Group,"Dallas, TX 75202 (City Center District area)",yes
+888,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+889,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+890,Data Scientist,DTE Energy,"Detroit, MI",yes
+891,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+892,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+893,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+894,DataOps Engineer - Data Science and Clinical Trials,Origent Data Sciences,"Washington, DC 20009 (U Street Corridor area)",yes
+895,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+896,Data Analytics Scientist,Theoris,"Bradley, IL",yes
+897,Intermediate Data Science Analyst,Gateway,"Indianapolis, IN 46204",yes
+898,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+899,Data Scientist,DTE Energy,"Detroit, MI",yes
+900,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+901,Data Scientist and Visualization Specialist,Apple,"Santa Clara Valley, CA 95014",yes
+902,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+903,"Associate, Data Science",JP Morgan Chase,"Lewisville, TX 75067",yes
+904,"Data Scientist, Analytics",Facebook,"New York, NY 10017 (Midtown area)",yes
+905,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+906,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+907,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+908,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+909,Data Scientist,DTE Energy,"Detroit, MI",yes
+910,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+911,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+912,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+913,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+914,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+915,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+916,Data Scientist,OneMagnify,"Dearborn, MI",yes
+917,Data Scientist,Booz Allen Hamilton,"Fayetteville, NC 28303",yes
+918,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+919,Data Scientist,DTE Energy,"Detroit, MI",yes
+920,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+921,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+922,Data Science Manager,Domino's,"Ann Arbor, MI 48106",yes
+923,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+924,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+925,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+926,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+927,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+928,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+929,Data Scientist,DTE Energy,"Detroit, MI",yes
+930,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+931,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+932,Data Science Manager,Domino's,"Ann Arbor, MI 48106",yes
+933,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+934,"Applied Data Scientist- Arlington, VA",Nestle USA,"Arlington, VA 22201",yes
+935,Data Scientist,Ameritas,"Cincinnati, OH 45240",yes
+936,Data Scientist,Social Science Research Solutions (SSRS),"Glen Mills, PA",yes
+937,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+938,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+939,Data Scientist,DTE Energy,"Detroit, MI",yes
+940,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+941,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+942,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+943,Data Engineer,FutureSoft IT,"Detroit, MI",yes
+944,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
+945,Data Scientist,AQUASIGHT LLC,"Troy, MI 48084",yes
+946,Data Science and Analytics Specialist,"Chesterfield County, VA","Chesterfield, VA",yes
+947,Data Scientist,Booz Allen Hamilton,"Fayetteville, NC 28303",yes
+948,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+949,Data Scientist,DTE Energy,"Detroit, MI",yes
+950,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+951,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+952,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+953,"Data Scientist, Analytics",Facebook,"New York, NY 10017 (Midtown area)",yes
+954,Data Scientist and Visualization Specialist,Apple,"Santa Clara Valley, CA 95014",yes
+955,Data Scientist,Best Buy,"Richfield, MN 55423",yes
+956,Data Scientist (Machine Learning),Apple,"Santa Clara Valley, CA 95014",yes
+957,"Product Analyst, Data Science",Google,"New York, NY 10011 (Chelsea area)",yes
+958,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+959,Data Scientist,DTE Energy,"Detroit, MI",yes
+960,"Data Scientist, Content Platform",Spotify,"New York, NY 10011 (Chelsea area)",yes
+961,Data Scientist and Visualization Specialist,Apple,"Santa Clara Valley, CA 95014",yes
+962,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+963,"Associate, Data Science",JP Morgan Chase,"Lewisville, TX 75067",yes
+964,"Data Scientist, Analytics",Facebook,"New York, NY 10017 (Midtown area)",yes
+965,Data Scientist or Associate Data Scientist,Metropolitan Council,"Minneapolis, MN 55405 (Bryn Mawr area)",yes
+966,Data Science Associate,McKesson,"Atlanta, GA 30329",yes
+967,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+968,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+969,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+970,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+971,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+972,Data Scientist,Imprimis Group,"Dallas, TX 75202 (City Center District area)",yes
+973,"Assistant Director/Director I, Data Science",Liberty Mutual Insurance,"Boston, MA 02101",yes
+974,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+975,Democratization Data Scientist,Ford Motor Company,"Dearborn, MI 48126",yes
+976,"Associate, Data Science",JP Morgan Chase,"Lewisville, TX 75067",yes
+977,Data Scientist,Ford Motor Company,"Dearborn, MI",yes
+978,Data Scientist,"Computer Enterprises, Inc. (CEI)","Pittsburgh, PA",yes
+979,Data Scientist,DTE Energy,"Detroit, MI",yes
+980,Data Science Analyst,Domino's,"Ann Arbor, MI 48106",yes
+981,Data Scientist,Dow Technologies and Systems,"United, PA",yes
+982,Data Science Consultant - Supply Chain,Accenture,"Detroit, MI",yes
+983,Entry Level Data Scientist,Numero Data LLC,"Herndon, VA",yes
+984,Data Scientist 10774 (NO C2C),Production Modeling Corporation,"Auburn Hills, MI",yes
+985,Data Scientist / Machine Learning Specialist,University of Michigan,"Ann Arbor, MI 48109",yes
